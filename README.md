@@ -1,12 +1,7 @@
-# Real time Handwritten Digit Recognition using Web Camera #
-## CMPE – 258 Deep Learning ##
-### Swayam Swaroop Mishra ###
-### ID - 013725595 ###
-
 <p align="center">
   Real time Handwritten Digit Recognition using Web Camera<br/>
   CMPE – 258 Deep Learning<br/>
-  Swayam Swaroop Mishra
+  Swayam Swaroop Mishra<br/>
   ID - 013725595<br/>
 </p>
 
