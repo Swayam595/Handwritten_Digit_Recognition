@@ -5,21 +5,21 @@ ID - 013725595
 
 Read Me – 
 1.	Files –   
-    a.	web_cam_roi.py  
-    b.	model_under_test.h5  
+    1. web_cam_roi.py  
+    2. model_under_test.h5  
 2.	Requirements –   
-    a.	Web Camera  
-    b.	Python Version – 3.7.6  
-    c.	Numpy  
-    d.	OpenCv  
-    e.	Keras  
-    f.	Tesnsorflow   
+    1. Web Camera  
+    2. Python Version – 3.7.6  
+    3. Numpy  
+    4. OpenCv  
+    5. Keras  
+    6. Tesnsorflow   
 3.	Steps to run digit recognition –  
-    a.	Download both the files into the same directory.  
-    b.	In the terminal type:  
+    1. Download both the files into the same directory.  
+    2. In the terminal type:  
       - If having more than two python version installed in your system (Mac Users) – python3 web_cam_roi.py   
       - If having only python 3 installed - python web_cam_roi.py\
-    c.	Show any handwritten digits of any length for in the ROI (Green Colored region) for digit recognition.  
+    3. Show any handwritten digits of any length for in the ROI (Green Colored region) for digit recognition.  
 
 References – 
 1.	Loading trained model – Harry Li OpenCv. 
