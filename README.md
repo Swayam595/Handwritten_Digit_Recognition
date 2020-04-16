@@ -1,9 +1,9 @@
-<HEAD align="center" > 
+<h1 align="center" > 
     Real time Handwritten Digit Recognition using Web Camera<br/>
     CMPE – 258 Deep Learning<br/>
     Swayam Swaroop Mishra<br/>
     ID - 013725595<br/>
-</HEAD>
+</h1>
 
 Read Me – 
 1.	Files –   
