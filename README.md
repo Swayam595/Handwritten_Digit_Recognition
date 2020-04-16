@@ -3,8 +3,9 @@
 ### Swayam Swaroop Mishra ###
 ### ID - 013725595 ###
 
-<div style="text-align:center">Real time Handwritten Digit Recognition using Web Camera  
-</div>
+<p align="center">
+  Real time Handwritten Digit Recognition using Web Camera
+</p>
 
 Read Me – 
 1.	Files –   
