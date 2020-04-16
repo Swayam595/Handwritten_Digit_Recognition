@@ -1,7 +1,7 @@
-Real time Digit Recognition using Web Camera /n
-CMPE – 258 Deep Learning /n
-Swayam Swaroop Mishra/n
-ID - 013725595/n/n
+Real time Handwritten Digit Recognition using Web Camera<br/>
+CMPE – 258 Deep Learning<br/>
+Swayam Swaroop Mishra<br/>
+ID - 013725595<br/><br/>
 Read Me – 
 1.	Files – 
 a.	web_cam_roi.py
