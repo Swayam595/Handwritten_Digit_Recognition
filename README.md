@@ -17,8 +17,8 @@ Read Me –
 3.	Steps to run digit recognition –  
     1. Download both the files into the same directory.  
     2. In the terminal type:  
-      - If having more than two python version installed in your system (Mac Users) – python3 web_cam_roi.py   
-      - If having only python 3 installed - python web_cam_roi.py\
+    - If having more than two python version installed in your system (Mac Users) – python3 web_cam_roi.py   
+    - If having only python 3 installed - python web_cam_roi.py\
     3. Show any handwritten digits of any length for in the ROI (Green Colored region) for digit recognition.  
 
 References – 
