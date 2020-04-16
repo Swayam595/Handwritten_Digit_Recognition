@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center" style="font-weight:bold"> 
     Real time Handwritten Digit Recognition using Web Camera<br/>
     CMPE – 258 Deep Learning<br/>
     Swayam Swaroop Mishra<br/>
