@@ -5,6 +5,7 @@
 
 <p align="center">
   Real time Handwritten Digit Recognition using Web Camera
+  # Real time Handwritten Digit Recognition using Web Camera #
 </p>
 
 Read Me – 
