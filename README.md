@@ -4,8 +4,8 @@
 ### ID - 013725595 ###
 
 <p align="center">
-  Real time Handwritten Digit Recognition using Web Camera
-  # Real time Handwritten Digit Recognition using Web Camera #
+  <div>Real time Handwritten Digit Recognition using Web Camera</div>
+  
 </p>
 
 Read Me – 
