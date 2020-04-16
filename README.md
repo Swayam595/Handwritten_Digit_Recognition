@@ -4,8 +4,8 @@
 ### ID - 013725595 ###
 
 <p align="center">
-  <div>Real time Handwritten Digit Recognition using Web Camera</div>
-  
+  Real time Handwritten Digit Recognition using Web Camera
+  CMPE – 258 Deep Learning
 </p>
 
 Read Me – 
