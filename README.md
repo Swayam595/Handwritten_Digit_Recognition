@@ -3,9 +3,9 @@
 ### Swayam Swaroop Mishra ###
 ### ID - 013725595 ###
 
-<div style="text-align:center">Real time Handwritten Digit Recognition using Web Camera\
-CMPE – 258 Deep Learning\
-Swayam Swaroop Mishra\
+<div style="text-align:center">Real time Handwritten Digit Recognition using Web Camera  
+CMPE – 258 Deep Learning   
+Swayam Swaroop Mishra  
 ID - 013725595</div>
 
 Read Me – 
